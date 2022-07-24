@@ -1,5 +1,5 @@
 {
-    "name": "Avneesh Agarwal",
+    "name": "John Tarus",
     "image": "/me.png",
     "profession": "FullStack web developer",
     "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
@@ -12,24 +12,29 @@
             "link": "https://reactjs.org/"
         },
         {
-            "src": "/logos/nextjs.svg",
-            "name": "Next",
-            "link": "https://nextjs.org/"
+            "src": "/logos/mongodb.svg",
+            "name": "MongoDB",
+            "link": "https://www.mongodb.com/"
         },
         {
-            "src": "/logos/typescript.svg",
-            "name": "Typescript",
-            "link": "https://www.typescriptlang.org/"
+            "src": "/logos/redux.svg",
+            "name": "Redux-toolkit",
+            "link": "https://redux-toolkit.js.org/"
         },
         {
-            "src": "/logos/thirdweb.svg",
-            "name": "Thirdweb",
-            "link": "https://thirdweb.com"
+            "src": "/logos/jwt.svg",
+            "name": "JWT",
+            "link": "https://jwt.io/"
         },
         {
             "src": "/logos/tailwind.svg",
             "name": "Tailwind",
             "link": "https://tailwindcss.com/"
+        },
+        {
+            "src": "/logos/git.svg",
+            "name": "Git",
+            "link": "https://git-scm.com/download/win"
         }
     ],
     "projects": [
@@ -68,14 +73,14 @@
     ],
     "testimonials": [
         {
-            "value": "I have launched more than 2 products on Product Hunt with Avneesh and I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
+            "value": "I have launched more than 2 products on Product Hunt with John and I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
             "name": "Kira",
             "relation": "Co-worker",
             "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
             "link": "https://github.com/Kira272921/"
         },
         {
-            "value": "I've worked on numerous projects with Avneesh and the flow has always been perfect. Avneesh is a great leader and we also listen to spotify together!",
+            "value": "I've worked on numerous projects with John and the flow has always been perfect. John is a great leader and we also listen to spotify together!",
             "name": "Anurag",
             "relation": "Co-builder",
             "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
