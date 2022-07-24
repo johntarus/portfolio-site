@@ -1,11 +1,16 @@
 {
     "name": "John Tarus",
-    "image": "/me.png",
+    "image": "/profi.png",
     "profession": "FullStack web developer",
     "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
     "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
     "website": "https://www.avneesh.tech",
     "skills": [
+        {
+            "src": "/logos/node.svg",
+            "name": "Node",
+            "link": "https://nodejs.org/en/"
+        },
         {
             "src": "/logos/react.svg",
             "name": "React",
@@ -17,6 +22,12 @@
             "link": "https://www.mongodb.com/"
         },
         {
+            "src": "/logos/tailwind.svg",
+            "name": "Tailwind",
+            "link": "https://tailwindcss.com/"
+        },
+
+        {
             "src": "/logos/redux.svg",
             "name": "Redux-toolkit",
             "link": "https://redux-toolkit.js.org/"
@@ -26,11 +37,7 @@
             "name": "JWT",
             "link": "https://jwt.io/"
         },
-        {
-            "src": "/logos/tailwind.svg",
-            "name": "Tailwind",
-            "link": "https://tailwindcss.com/"
-        },
+
         {
             "src": "/logos/git.svg",
             "name": "Git",
