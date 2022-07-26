@@ -129,6 +129,11 @@
             "name": "Hashnode",
             "icon": "hashnode.svg",
             "link": "https://tarus.hashnode.dev/"
+        },
+        {
+            "name": "Linktree",
+            "icon": "linktree.svg",
+            "link": "https://linktr.ee/johntarus"
         }
     ]
 }
