@@ -11,7 +11,7 @@ const Post: FC<Props> = ({ post }) => {
     return (
         <a
             className="relative flex flex-col m-5 my-5 mt-5 rounded-lg md:mb-0 md:mx-5 w-80 md:w-96 dark:bg-darkerBlue"
-            href={`https://blog.avneesh.tech/${post.slug}`}
+            href={`https://tarus.hashnode.dev/${post.slug}`}
             key={post._id}
             rel="noreferrer"
             target="_blank"
