@@ -35,7 +35,7 @@ const Intro = () => {
                     to="contact"
                 >
                     <button className="py-2 px-5 !mt-10 hover:bg-neon hover:border-neon hover:backdrop-blur-lg hover:text-darkerBlue duration-100 border-neon border-2 text-neon rounded-lg">
-                        Reach out to me!
+                        Contact me!
                     </button>
                 </Link>
 
@@ -49,7 +49,7 @@ const Intro = () => {
                     to="work"
                 >
                     <button className="py-2 px-5 !mt-10 text-darkerBlue bg-neon border-neon hover:bg-transparent duration-100 hover:text-neon border-2 rounded-lg">
-                        Check out my work!
+                        My work!
                     </button>
                 </Link>
             </div>

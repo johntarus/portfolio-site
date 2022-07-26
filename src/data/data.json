@@ -42,6 +42,16 @@
             "src": "/logos/git.svg",
             "name": "Git",
             "link": "https://git-scm.com/download/win"
+        },
+        {
+            "src": "/logos/firebase.svg",
+            "name": "Git",
+            "link": "https://firebase.google.com/"
+        },
+        {
+            "src": "/logos/heroku.svg",
+            "name": "Git",
+            "link": "https://www.heroku.com/"
         }
     ],
     "projects": [
@@ -96,39 +106,29 @@
     ],
     "links": [
         {
+            "name": "Mail me",
+            "icon": "mail.svg",
+            "link": "mailto:tarusjohn96@gmail.com"
+        },
+        {
             "name": "GitHub",
             "icon": "github.svg",
-            "link": "https://github.com/avneesh0612"
+            "link": "https://github.com/johntarus"
         },
         {
             "name": "Twitter",
             "icon": "twitter.svg",
-            "link": "https://twitter.com/avneesh0612"
-        },
-        {
-            "name": "Hashnode",
-            "icon": "hashnode.svg",
-            "link": "https://blog.avneesh.tech"
-        },
-        {
-            "name": "Showwcase",
-            "icon": "showwcase.svg",
-            "link": "https://www.showwcase.com/avneesh"
-        },
-        {
-            "name": "Instagram",
-            "icon": "instagram.svg",
-            "link": "https://instagram.com/avneesh.codes"
-        },
-        {
-            "name": "Mail me",
-            "icon": "mail.svg",
-            "link": "mailto:avneeshagarwal0612@gmail.com"
+            "link": "https://twitter.com/tarusjohn_"
         },
         {
             "name": "LinkedIn",
             "icon": "linkedin.svg",
-            "link": "https://www.linkedin.com/in/avneesh0612"
+            "link": "https://www.linkedin.com/in/john-tarus-3a170a19a/"
+        },
+        {
+            "name": "Hashnode",
+            "icon": "hashnode.svg",
+            "link": "https://tarus.hashnode.dev/"
         }
     ]
 }
