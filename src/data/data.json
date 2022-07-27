@@ -56,36 +56,42 @@
     ],
     "projects": [
         {
-            "name": "Irish Players Club",
-            "image": "https://res.cloudinary.com/didkcszrq/image/upload/v1646014704/Frame_1_cglafw.png",
-            "about": "A NFT collection of 5,555 unique leprechaun NFTs created by former Domers in an effort to support currently rostered Notre Dame football players.",
-            "tech": ["Next.js", "Solidity", "Node.js", "Chakra UI", "Firebase"],
+            "name": "Ecommerce",
+            "image": "/projects/commerce.jpg",
+            "about": "An Ecommerce website for customers to purchase products without having to visit the premises built with React, Redux, and Tailwind css",
+            "tech": [
+                "React.js",
+                "Redux-toolkit",
+                "Context-api",
+                "Firebase",
+                "Tailwind"
+            ],
             "links": {
-                "Live": "https://www.irishplayersclub.com/"
+                "Live": "https://ecom-merce.vercel.app/"
             },
-            "role": "Fullstack web3 developer"
+            "role": "Frontend Developer"
         },
         {
-            "name": "React and Next.js Snippets",
-            "image": "/projects/react-next.js-snips.png",
-            "about": "Packed with a lot of React and Next.js snippets, along with typescript! It is very easy to use, you can simply install it and type in the prefix for the snippets.",
-            "tech": ["VScode", "React", "Next.js"],
+            "name": "Budget App",
+            "image": "/projects/budget.jpg",
+            "about": "This is a react Expense tracker intergrated with speechly API for more functionality. Speechly enables you to add expenses or income by just recording without the need to type in the values.",
+            "tech": ["React", "MUI", "Speechly", "Context-api"],
             "links": {
-                "GitHub": "https://github.com/avneesh0612/react-nextjs-snippets",
-                "Live": "https://www.producthunt.com/posts/react-and-next-js-snippets"
+                "GitHub": "https://github.com/johntarus/budget-app",
+                "Live": "https://johntarus.github.io/budget-app/"
             },
             "role": "Lead developer"
         },
         {
-            "name": "Faucetli",
-            "image": "/projects/faucetli.png",
-            "about": "🦄 Faucetli is a minimal command-line tool to receive testnet tokens right away from your terminal.",
-            "tech": ["Node.js", "Web3.js", "Typescript"],
+            "name": "Blog",
+            "image": "/projects/blog.jpg",
+            "about": "A GraphCMS Blog Web App showing featured blogs, recent blog posts, and categories.",
+            "tech": ["React", "Nextjs", "GraphQl", "Vercel"],
             "links": {
-                "GitHub": "https://github.com/Kira272921/faucetli",
-                "Live": "https://www.producthunt.com/posts/faucetli"
+                "GitHub": "https://github.com/johntarus/GraphQl-Blog",
+                "Live": "https://graph-ql-blog.vercel.app/"
             },
-            "role": "Co-builder"
+            "role": "Builder"
         }
     ],
     "testimonials": [
