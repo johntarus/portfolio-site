@@ -2,8 +2,8 @@
     "name": "John Tarus",
     "image": "/profi.png",
     "profession": "FullStack web developer",
-    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs. I love to learn new things and I am always open to learn new technologies.",
+    "about": "I am a full-stack web developer who loves to design and develop beautiful products. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
     "website": "https://github.com/johntarus",
     "skills": [
         {
@@ -96,7 +96,7 @@
     ],
     "testimonials": [
         {
-            "value": "I have launched more than 2 products on Product Hunt with John and I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
+            "value": "I have launched several products with John and I have enjoyed the entire journey from getting the project idea till launching. He is awesome to work with.",
             "name": "Kira",
             "relation": "Co-worker",
             "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
