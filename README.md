@@ -10,11 +10,12 @@
 
 > This is John's portfolio, feel free to use it and contribute to it
 
-![Avneesh's portfolio banner](https://user-images.githubusercontent.com/76690419/149654118-3cc524c0-9772-4eb0-a86f-e1d2e532abcb.png)
+![Tarus's portfolio banner](https://user-images.githubusercontent.com/47330228/182403528-812000f7-ef83-4f4e-94c8-a2a46d4bd7ca.jpg)
 
-### 🏠 [Homepage](https://www.avneesh.tech/)
 
-### ✨ [Demo](https://www.avneesh.tech/)
+### 🏠 [Homepage](https://portfolio-johntarus.vercel.app/)
+
+### ✨ [Demo](https://portfolio-johntarus.vercel.app/)
 
 ## Using the template
 
@@ -22,7 +23,7 @@ To use this template follow the instructions given in [Using guide](https://gith
 
 ## Author
 
-👤 **Avneesh Agarwal**
+👤 **John Tarus**
 
 -   Website: https://www.avneesh.tech/
 -   Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
