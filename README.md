@@ -10,7 +10,7 @@
 
 > This is John's portfolio, feel free to use it and contribute to it
 
-![Tarus's portfolio banner](https://user-images.githubusercontent.com/47330228/182403528-812000f7-ef83-4f4e-94c8-a2a46d4bd7ca.jpg)
+![Tarus's portfolio banner](https://user-images.githubusercontent.com/47330228/182462275-ce58f3e3-bffe-4a3c-88e0-e172dd8e1821.jpg)
 
 
 ### 🏠 [Homepage](https://portfolio-johntarus.vercel.app/)
