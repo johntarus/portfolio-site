@@ -26,9 +26,9 @@ To use this template follow the instructions given in [Using guide](https://gith
 👤 **John Tarus**
 
 -   Website: https://portfolio-johntarus.vercel.app/
--   Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
--   Github: [@avneesh0612](https://github.com/avneesh0612)
--   LinkedIn: [@avneesh0612](https://linkedin.com/in/avneesh0612)
+-   Twitter: [tarusjohn](https://twitter.com/tarusjohn_)
+-   Github: [tarusjohn](https://github.com/johntarus)
+-   LinkedIn: [tarusjohn](https://www.linkedin.com/in/john-tarus-3a170a19a/)
 
 ## 🤝 Contributing
 
