@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to a Portfolio Template👋</h1>
+<h1 align="center">Welcome to my Portfolio Template👋</h1>
 <p>
-  <a href="https://github.com/avneesh0612/portfolio/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/johntarus/portfolio/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/avneesh0612" target="_blank">
-    <img alt="Twitter: avneesh0612" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
+  <a href="https://twitter.com/tarusjohn_" target="_blank">
+    <img alt="Twitter: tarusjohn_" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
   </a>
 </p>
 
@@ -19,13 +19,13 @@
 
 ## Using the template
 
-To use this template follow the instructions given in [Using guide](https://github.com/avneesh0612/portfolio/blob/main/USING.md).
+To use this template follow the instructions given in [Using guide](https://github.com/tarusjohn/portfolio/blob/main/USING.md).
 
 ## Author
 
 👤 **John Tarus**
 
--   Website: https://www.avneesh.tech/
+-   Website: https://portfolio-johntarus.vercel.app/
 -   Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
 -   Github: [@avneesh0612](https://github.com/avneesh0612)
 -   LinkedIn: [@avneesh0612](https://linkedin.com/in/avneesh0612)
