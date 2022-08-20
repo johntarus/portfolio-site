@@ -1,33 +1,34 @@
-<h1 align="center">Welcome to a Portfolio Template👋</h1>
+<h1 align="center">Welcome to my Portfolio Template👋</h1>
 <p>
-  <a href="https://github.com/avneesh0612/portfolio/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/johntarus/portfolio/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/avneesh0612" target="_blank">
-    <img alt="Twitter: avneesh0612" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
+  <a href="https://twitter.com/tarusjohn_" target="_blank">
+    <img alt="Twitter: tarusjohn_" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
   </a>
 </p>
 
 > This is John's portfolio, feel free to use it and contribute to it
 
-![Avneesh's portfolio banner](https://user-images.githubusercontent.com/76690419/149654118-3cc524c0-9772-4eb0-a86f-e1d2e532abcb.png)
+![Tarus's portfolio banner](https://user-images.githubusercontent.com/47330228/182462275-ce58f3e3-bffe-4a3c-88e0-e172dd8e1821.jpg)
 
-### 🏠 [Homepage](https://www.avneesh.tech/)
 
-### ✨ [Demo](https://www.avneesh.tech/)
+### 🏠 [Homepage](https://portfolio-johntarus.vercel.app/)
+
+### ✨ [Demo](https://portfolio-johntarus.vercel.app/)
 
 ## Using the template
 
-To use this template follow the instructions given in [Using guide](https://github.com/avneesh0612/portfolio/blob/main/USING.md).
+To use this template follow the instructions given in [Using guide](https://github.com/tarusjohn/portfolio/blob/main/USING.md).
 
 ## Author
 
-👤 **Avneesh Agarwal**
+👤 **John Tarus**
 
--   Website: https://www.avneesh.tech/
--   Twitter: [@avneesh0612](https://twitter.com/avneesh0612)
--   Github: [@avneesh0612](https://github.com/avneesh0612)
--   LinkedIn: [@avneesh0612](https://linkedin.com/in/avneesh0612)
+-   Website: https://portfolio-johntarus.vercel.app/
+-   Twitter: [tarusjohn](https://twitter.com/tarusjohn_)
+-   Github: [tarusjohn](https://github.com/johntarus)
+-   LinkedIn: [tarusjohn](https://www.linkedin.com/in/john-tarus-3a170a19a/)
 
 ## 🤝 Contributing
 
