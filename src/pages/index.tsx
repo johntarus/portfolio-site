@@ -41,3 +41,4 @@ export const getStaticProps: GetStaticProps = async () => {
         revalidate: 600,
     };
 };
+//checking commits

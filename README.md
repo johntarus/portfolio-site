@@ -12,7 +12,6 @@
 
 ![Tarus's portfolio banner](https://user-images.githubusercontent.com/47330228/182462275-ce58f3e3-bffe-4a3c-88e0-e172dd8e1821.jpg)
 
-
 ### 🏠 [Homepage](https://portfolio-johntarus.vercel.app/)
 
 ### ✨ [Demo](https://portfolio-johntarus.vercel.app/)
