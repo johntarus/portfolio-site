@@ -22,7 +22,7 @@ jobs:
                       ${{ runner.OS }}-node-
                       ${{ runner.OS }}-
             - name: Install dependencies
-              run: yarn install --frozen-lockfile
+              run: npm install --frozen-lockfile
 
             - name: Linting
               run: npm run lint
