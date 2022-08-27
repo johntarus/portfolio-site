@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>John Tarus</title>
-        <link>https://www.avneesh.tech/</link>
+        <link>https://portfolio-johntarus.vercel.app/</link>
         <description>I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.</description>
         <lastBuildDate>Wed, 22 Dec 2021 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <image>
             <title>John Tarus</title>
-            <url>https://www.avneesh.tech/og-image.png</url>
-            <link>https://www.avneesh.tech/</link>
+            <url>https://portfolio-johntarus.vercel.app/</url>
+            <link>https://portfolio-johntarus.vercel.app/</link>
         </image>
         <copyright>All rights reserved, John Tarus</copyright>
         <category>Technology</category>

@@ -1,15 +1,10 @@
 ## Using Portfolio
 
-Click on Use this template
-![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1631617252765/s_PLlBQ2K.png)
+To use this portfolio:
 
-Now give your repository a name and you can give some additional details if you want.
+### Clone the repository
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631618260606/8ElFhJMQT.png)
-
-### Running the template
-
--   Clone the repository you have been redirected to by
+-   Clone the repository by:
 
 ```
 git clone url
@@ -54,4 +49,4 @@ git push
 -   Your site is successfully deployed 🥳
 -   Now grab the URL and show it to world
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631621350017/GifQ52-5W.png)
+![image.png](portfolio.jpg)
