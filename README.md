@@ -16,10 +16,6 @@
 
 ### ✨ [Demo](https://portfolio-johntarus.vercel.app/)
 
-## Using the template
-
-To use this template follow the instructions given in [Using guide](https://github.com/johntarus/portfolio-site/blob/main/USING.md).
-
 ## Author
 
 👤 **John Tarus**

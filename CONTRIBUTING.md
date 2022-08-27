@@ -42,20 +42,14 @@ git commit -m "commit message (what you added)"
 git push origin new-feature
 ```
 
-After pushing the code go to your repository go to your repository and now this button will be enabled.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1627311880224/BoU02D7DZ.png)
+After pushing the code go to your repository go to your repository and now theopen pull request button will be enabled.
 
 Now open a pull request.
 
-After clicking on create a pull request, you will see this
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1627311883434/Rb401-oo8.jpeg)
+After clicking on create a pull request, you will see a create pull request button
 
 Now create a pull request.
 
 Give a title and description and create pull request.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1627311885494/YgJ_EfgDq.png)
 
 You have created your pull request, I will review it soon
