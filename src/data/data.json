@@ -67,6 +67,7 @@
                 "Tailwind"
             ],
             "links": {
+                "GitHub": "https://github.com/johntarus/ecommerce",
                 "Live": "https://ecom-merce.vercel.app/"
             },
             "role": "Frontend Developer"
