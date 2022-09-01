@@ -1,9 +1,9 @@
 {
     "name": "John Tarus",
     "image": "/profi.png",
-    "profession": "FullStack web developer",
+    "profession": "Frontend developer",
     "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I am a full-stack web developer who loves to design and develop beautiful products. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+    "about": "I am a frontend developer who loves to design and develop beautiful products. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
     "website": "https://github.com/johntarus",
     "skills": [
         {
@@ -69,6 +69,17 @@
             "links": {
                 "GitHub": "https://github.com/johntarus/ecommerce",
                 "Live": "https://ecom-merce.vercel.app/"
+            },
+            "role": "Frontend Developer"
+        },
+        {
+            "name": "Bug-tracker",
+            "image": "/projects/bug-tracker.jpg",
+            "about": "The application is an error logging and monitoring tool similar to Sentry. Note: you have to click the Dashboard link in the upper right corner to see the app as shown",
+            "tech": ["Nextjs", "Typscript", "Styled-components", "Cypress"],
+            "links": {
+                "GitHub": "https://github.com/johntarus/bug-tracker",
+                "Live": "https://bug-tracker-six.vercel.app/"
             },
             "role": "Frontend Developer"
         },
